@@ -10,7 +10,7 @@ Un développeur fullstack junior du Brésil</h3>
 
 - 🌱 J'apprends actuellement **NextJS, Strapi, Testing Libraries, GraphQL, Typescript**
 
-- 💬 Demande moi à propos de**Javascript and ReactJS**
+- 💬 Demande moi à propos de **Javascript and ReactJS**
 
 - 📫 Comment me joindre **brenoluiz.dev@gmail.com**
 
