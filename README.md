@@ -1,3 +1,7 @@
+<a href="https://github.com/DevMaktubi/DevMaktubi/tree/README-BR" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/330/330430.png" alt="devmaktubi" height="40" width="40" /></a>
+<a href="https://github.com/DevMaktubi/DevMaktubi" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/330/330459.png" alt="devmaktubi" height="40" width="40" /></a>
+<a href="https://github.com/DevMaktubi/DevMaktubi/tree/README-FR" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/330/330490.png" alt="devmaktubi" height="40" width="40" /></a>
+
 <h1 align="center">Salut 👋, je suis Breno Luiz</h1>
 <h3 align="center">
 Un développeur fullstack junior du Brésil</h3>
