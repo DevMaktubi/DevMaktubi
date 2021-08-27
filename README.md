@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 Estou trabalhando atualmente em [React Avancado](https://github.com/DevMaktubi/ReactAvancado)
+- 🔭 Estou trabalhando atualmente em [React Avancado API](https://github.com/DevMaktubi/reactavancado-api)
 
 - 🌱 Estou atualmente aprendendo **NextJS, Strapi, Testing Libraries, GraphQL, Typescript**
 
