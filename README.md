@@ -10,7 +10,7 @@ Un développeur fullstack junior du Brésil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [React Avancado](https://github.com/DevMaktubi/ReactAvancado)
+- 🔭 Je travaille actuellement sur [React Avancado API](https://github.com/DevMaktubi/reactavancado-api)
 
 - 🌱 J'apprends actuellement **NextJS, Strapi, Testing Libraries, GraphQL, Typescript**
 
