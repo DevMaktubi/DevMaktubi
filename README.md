@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 I’m currently working on [React Avancado API](https://github.com/DevMaktubi/reactavancado-api)
+- 🔭 I’m currently working on MyMobi](https://github.com/DevMaktubi/MyMobiBackend), my personal project made to apply all the backend knownledge that i'm studying.
 
-- 🌱 I’m currently learning **NextJS, Strapi, Testing Libraries, GraphQL, Typescript**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, Tests, TypeORM, Typescript, PostgreSQL**
 
-- 💬 Ask me about **Javascript and ReactJS**
+- 💬 Ask me about **ReactJS e NodeJS**
 
 - 📫 How to reach me **brenoluiz.dev@gmail.com**
 
