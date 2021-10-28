@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, Tests, TypeORM, Typescript, PostgreSQL**
 
-- 💬 Ask me about **ReactJS e NodeJS**
+- 💬 Ask me about **ReactJS and NodeJS**
 
 - 📫 How to reach me **brenoluiz.dev@gmail.com**
 
