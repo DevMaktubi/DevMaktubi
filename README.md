@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 Estou trabalhando atualmente em [React Avancado API](https://github.com/DevMaktubi/reactavancado-api)
+- 🔭Estou trabalhando atualmente em [MyMobi](https://github.com/DevMaktubi/MyMobiBackend), meu projeto pessoal para aplicar conhecimentos de backend e posteriormente frontend.
 
-- 🌱 Estou atualmente aprendendo **NextJS, Strapi, Testing Libraries, GraphQL, Typescript**
+- 🌱 Estou atualmente aprendendo **NodeJS, ExpressJS, Testes, TypeORM, Typescript, PostgreSQL**
 
-- 💬 Me pergunte sobre **Javascript e ReactJS**
+- 💬 Me pergunte sobre **ReactJS e NodeJS**
 
 - 📫 Email de contato **brenoluiz.dev@gmail.com**
 
