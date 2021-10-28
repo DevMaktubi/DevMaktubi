@@ -10,11 +10,11 @@ Un développeur fullstack junior du Brésil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [React Avancado API](https://github.com/DevMaktubi/reactavancado-api)
+- 🔭 Je travaille actuellement sur [MyMobi](https://github.com/DevMaktubi/MyMobiBackend)
 
-- 🌱 J'apprends actuellement **NextJS, Strapi, Testing Libraries, GraphQL, Typescript**
+- 🌱 J'apprends actuellement **NodeJS, ExpressJS, Testes, TypeORM, Typescript, PostgreSQL**
 
-- 💬 Demande moi à propos de **Javascript and ReactJS**
+- 💬 Demande moi à propos de **ReactJS et NodeJS**
 
 - 📫 Comment me joindre **brenoluiz.dev@gmail.com**
 
