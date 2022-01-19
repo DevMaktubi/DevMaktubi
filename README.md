@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 I’m currently working on [MyMobi](https://github.com/DevMaktubi/MyMobiBackend), my personal project made to apply all the backend knowledge that i'm studying.
+- 🔭 I’m currently working on [RocketSeat Bootcamp](https://github.com/DevMaktubi/RS-React-Modulo2), a fullstack bootcamp module that teaches me more about ReactJS.
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Tests, TypeORM, Typescript, PostgreSQL**
+- 🌱 I’m currently learning **ReactJS, Typescript, MirageJS, Styled Components, NextJS**
 
 - 💬 Ask me about **ReactJS and NodeJS**
 
