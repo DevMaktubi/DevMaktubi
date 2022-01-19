@@ -12,7 +12,7 @@ Un développeur fullstack junior du Brésil</h3>
 
 - 🔭 Je travaille actuellement sur [DTMoney](https://github.com/DevMaktubi/RS-React-Modulo2)
 
-- 🌱 J'apprends actuellement **NodeJS, ExpressJS, Testes, TypeORM, Typescript, PostgreSQL**
+- 🌱 J'apprends actuellement **ReactJS, Typescript, MirageJS, Styled Components, NextJS**
 
 - 💬 Demande moi à propos de **ReactJS et NodeJS**
 
