@@ -10,7 +10,7 @@ Un développeur fullstack junior du Brésil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [MyMobi](https://github.com/DevMaktubi/MyMobiBackend)
+- 🔭 Je travaille actuellement sur [DTMoney](https://github.com/DevMaktubi/RS-React-Modulo2)
 
 - 🌱 J'apprends actuellement **NodeJS, ExpressJS, Testes, TypeORM, Typescript, PostgreSQL**
 
