@@ -10,7 +10,7 @@
 
 - 🔭Estou trabalhando atualmente em [DTMoney](https://github.com/DevMaktubi/RS-React-Modulo2), um projeto de um bootcamp para melhorar meus conhecimentos em ReactJS.
 
-- 🌱 Estou atualmente aprendendo **NodeJS, ExpressJS, Testes, TypeORM, Typescript, PostgreSQL**
+- 🌱 Estou atualmente aprendendo **ReactJS, Typescript, MirageJS, Styled Components, NextJS**
 
 - 💬 Me pergunte sobre **ReactJS e NodeJS**
 
