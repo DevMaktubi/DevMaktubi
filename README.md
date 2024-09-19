@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭Estou trabalhando atualmente em [DTMoney](https://github.com/DevMaktubi/RS-React-Modulo2), um projeto de um bootcamp para melhorar meus conhecimentos em ReactJS.
 
 - 🌱 Estou atualmente aprendendo **ReactJS, Typescript, NextJS, Laravel, PostgreSQL, Stripe e Docker**
 
