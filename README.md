@@ -10,9 +10,9 @@
 
 - 🔭Estou trabalhando atualmente em [DTMoney](https://github.com/DevMaktubi/RS-React-Modulo2), um projeto de um bootcamp para melhorar meus conhecimentos em ReactJS.
 
-- 🌱 Estou atualmente aprendendo **ReactJS, Typescript, MirageJS, Styled Components, NextJS**
+- 🌱 Estou atualmente aprendendo **ReactJS, Typescript, NextJS, Laravel, PostgreSQL, Stripe e Docker**
 
-- 💬 Me pergunte sobre **ReactJS e NodeJS**
+- 💬 Me pergunte sobre **ReactJS**
 
 - 📫 Email de contato **brenoluiz.dev@gmail.com**
 
