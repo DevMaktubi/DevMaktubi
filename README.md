@@ -9,11 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 I’m currently working on [DTMoney](https://github.com/DevMaktubi/RS-React-Modulo2), a study project that teaches me more about ReactJS.
+- 🌱 I’m currently learning **ReactJS, Typescript, NextJS, Laravel, PostgreSQL, Stripe and Docker**
 
-- 🌱 I’m currently learning **ReactJS, Typescript, MirageJS, Styled Components, NextJS**
-
-- 💬 Ask me about **ReactJS and NodeJS**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **brenoluiz.dev@gmail.com**
 
@@ -23,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/devmaktubi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devmaktubi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/breno-luiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="breno-luiz" height="30" width="40" /></a>
-<a href="https://instagram.com/breno.dmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="breno.dmg" height="30" width="40" /></a>
+<a href="https://instagram.com/breno.luizp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="breno.dmg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
