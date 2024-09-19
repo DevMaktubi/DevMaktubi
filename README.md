@@ -10,11 +10,9 @@ Un développeur fullstack junior du Brésil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [DTMoney](https://github.com/DevMaktubi/RS-React-Modulo2)
+- 🌱 J'apprends actuellement **ReactJS, Typescript, NextJS, Laravel, PostgreSQL, Stripe et Docker**
 
-- 🌱 J'apprends actuellement **ReactJS, Typescript, MirageJS, Styled Components, NextJS**
-
-- 💬 Demande moi à propos de **ReactJS et NodeJS**
+- 💬 Demande moi à propos de **ReactJS**
 
 - 📫 Comment me joindre **brenoluiz.dev@gmail.com**
 
