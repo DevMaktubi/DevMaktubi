@@ -3,19 +3,19 @@
 <a href="https://github.com/DevMaktubi/DevMaktubi/tree/README-FR" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/330/330490.png" alt="devmaktubi" height="40" width="40" /></a>
 
 <h1 align="center">Hi 👋, I'm Breno Luiz</h1>
-<h3 align="center">A dedicated fullstack junior developer from Brazil</h3>
+<h3 align="center">A dedicated fullstack mid-level developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmaktubi&label=Profile%20views&color=0e75b6&style=flat" alt="devmaktubi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Typescript, NextJS, Laravel, PostgreSQL, Stripe and Docker**
+- 🌱 I’m currently learning **ReactJS, Typescript, NextJS, Laravel, PostgreSQL and Docker**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS and Front-End in general**
 
 - 📫 How to reach me **brenoluiz.dev@gmail.com**
 
-- ⚡ Interesting fact: **I can play the guitar and the piano**
+- ⚡ Interesting fact: **Currently, i can play 5 musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
