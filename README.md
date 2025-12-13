@@ -75,8 +75,8 @@
   </a>
 </p>
 
-<p>&nbsp;
+<!-- <p>&nbsp;
   <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=devmaktubi&show_icons=true&locale=en&theme=synthwave"
     alt="devmaktubi" />
-</p>
+</p> -->
