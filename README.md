@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Breno Luiz</h1>
 <h3 align="center">A dedicated fullstack mid-level developer from Brazil</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devmaktubi" alt="devmaktubi" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **Golang, React-Query and DSA**
 
 - 💬 Ask me about **ReactJS and Front-End in general**
